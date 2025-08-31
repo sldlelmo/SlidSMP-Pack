@@ -1,0 +1,12 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "font/nyan.png",
+      "ascent": 13,
+      "height": 21,
+      "width": 34,
+      "chars": ["\uF000", "\uF001", "\uF002", "\uF003", "\uF004", "\uF005"]
+    }
+  ]
+}
