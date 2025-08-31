@@ -1,4 +1,4 @@
-# SlidSMP Resourse Pack
+# SlidSMP Resource Pack
 This is the resource pack used in the SlidSMP.
 ## Copyright
 This Resource Pack contains Nyan Cat, a copyrighted work created by Christopher Torres (PRguitarman).  
