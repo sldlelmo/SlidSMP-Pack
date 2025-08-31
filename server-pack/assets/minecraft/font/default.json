@@ -7,6 +7,22 @@
       "height": 21,
       "width": 34,
       "chars": ["\uF000", "\uF001", "\uF002", "\uF003", "\uF004", "\uF005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/rank/frostwatcher.png",
+      "ascent": 7,
+      "height": 8,
+      "width": 84,
+      "chars": ["\uF100"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/rank/owner.png",
+      "ascent": 7,
+      "height": 8,
+      "width": 42,
+      "chars": ["\uF199"]
     }
   ]
 }
