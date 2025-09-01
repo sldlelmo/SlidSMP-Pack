@@ -10,5 +10,5 @@ View the pack [here](https://modrinth.com/resourcepack/allure-emoji-pack), and t
 ### Ranks
 I made them, however they are *heavily* inspired by the Starlike SMP, even to the point of also using the Small Caps font for the text, and having bars on each horizontal side of the rank.  
 IP; `starlike.minecraft.best`.
-### Nyan Cat animation
+### Nyan Cat Animation
 View "Copyright".
