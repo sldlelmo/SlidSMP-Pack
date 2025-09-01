@@ -1,0 +1,44 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "slidsmp:font/rank/tba.png",
+      "ascent": 7,
+      "height": 8,
+      "width": 84,
+      "chars": [
+        "\uF000"
+      ]
+    },
+        {
+      "type": "bitmap",
+      "file": "slidsmp:font/rank/cracked.png",
+      "ascent": 7,
+      "height": 8,
+      "width": 84,
+      "chars": [
+        "\uF001"
+      ]
+    },
+        {
+      "type": "bitmap",
+      "file": "slidsmp:font/rank/premium.png",
+      "ascent": 7,
+      "height": 8,
+      "width": 84,
+      "chars": [
+        "\uF002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "slidsmp:font/rank/owner.png",
+      "ascent": 7,
+      "height": 8,
+      "width": 42,
+      "chars": [
+        "\uFFFF"
+      ]
+    }
+  ]
+}

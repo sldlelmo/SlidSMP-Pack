@@ -2,27 +2,309 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "font/nyan.png",
-      "ascent": 13,
-      "height": 21,
-      "width": 34,
-      "chars": ["\uF000", "\uF001", "\uF002", "\uF003", "\uF004", "\uF005"]
+      "file": "minecraft:font\/emoji\/face_smiling.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "😀😃😄😁😆😅🤣😂🙂🙃🫠😉😊😇"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "font/rank/frostwatcher.png",
+      "file": "minecraft:font\/emoji\/face_affection.png",
       "ascent": 7,
       "height": 8,
-      "width": 84,
-      "chars": ["\uF100"]
+      "chars": [
+        "🥰😍🤩😘😗☺😚😙🥲"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "font/rank/owner.png",
+      "file": "minecraft:font\/emoji\/face_tongue.png",
       "ascent": 7,
       "height": 8,
-      "width": 42,
-      "chars": ["\uF199"]
+      "chars": [
+        "😋😛😜🤪😝🤑"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/face_hand.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "🤗🤭🫢🫣🤫🤔🫡"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/face_neutral_skeptical.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "🤐🤨😐😑😶🫥😏😒🙄😬🤥🫨"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/face_sleepy.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "😌😔😪🤤😴🫩"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/face_unwell.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "😷🤒🤕🤢🤮🤧🥵🥶🥴😵🤯"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/face_hat.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "🤠🥳🥸"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/face_glasses.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "😎🤓🧐"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/face_concerned.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "😕🫤😟🙁☹😮😯😲😳🥺🥹😦😧😨😰😥😢😭😱😖😣😞😓😩😫🥱"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/face_negative.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "😤😡😠🤬😈👿💀☠"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/face_costume.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "💩🤡👹👺👻👽👾🤖"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/cat_face.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "😺😸😹😻😼😽🙀😿😾"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/monkey_face.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "🙈🙉🙊"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/heart.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "💌💘💝💖💗💓💞💕💟❣💔❤🩷🧡💛💚💙🩵💜🤎🖤🩶🤍"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/emotion.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "💋💯💢💥💫💦💨🕳💬🗨🗯💭💤"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/hand_fingers_open.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "👋🤚🖐✋🖖🫱🫲🫳🫴🫷🫸"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/hand_fingers_partial.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "👌🤌🤏✌🤞🫰🤟🤘🤙"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/hand_single_finger.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "👈👉👆🖕👇☝🫵"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/hand_fingers_closed.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "👍👎✊👊🤛🤜"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/hands.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "👏🙌🫶👐🤲🤝🙏"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/hand_prop.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "✍💅🤳"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/body_parts.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "💪🦾🦿🦵🦶👂🦻👃🧠🫀🫁🦷🦴👀👁👅👄🫦"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/person_symbol.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "🗣👤👥🫂👪👣🫆"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/hair_style.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "🦰🦱🦳🦲"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/animal_amphibian.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "🐸"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/animal_reptile.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "🐊🐢🦎🐍🐲🐉🦕🦖"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/plant_flower.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "💐🌸💮🪷🏵🌹🥀🌺🌻🌼🌷🪻"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/food_prepared.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "🍞🥐🥖🫓🥨🥯🥞🧇🧀🍖🍗🥩🥓🍔🍟🍕🌭🥪🌮🌯🫔🥙🧆🥚🍳🥘🍲🫕🥣🥗🍿🧈🧂🥫"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/award_medal.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "🎖🏆🏅🥇🥈🥉"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/sport.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "⚽⚾🥎🏀🏐🏈🏉🎾🥏🎳🏏🏑🏒🥍🏓🏸🥊🥋🥅⛳⛸🎣🤿🎽🎿🛷🥌"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/event.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "🎃🎄🎆🎇🧨✨🎈🎉🎊🎋🎍🎎🎏🎐🎑🧧🎀🎁🎗🎟🎫"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/geometric.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "🔴🟠🟡🟢🔵🟣🟤⚫⚪🟥🟧🟨🟩🟦🟪🟫⬛⬜◼◻◾◽▪▫🔶🔷🔸🔹🔺🔻💠🔘🔳🔲"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font\/emoji\/flag.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "🏁🚩🎌🏴🏳"
+      ]
     }
   ]
 }
